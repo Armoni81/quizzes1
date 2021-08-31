@@ -1,0 +1,14 @@
+1. Use the Cd function to move between directories 
+use the command touch first and then name a file. To delete you would use the command and then the name of the file 
+use the comman mkdir to create directories and the command rmdir to remove directories
+use the command pwd (print working directories)
+use the Ls (list) command
+Use the git init command
+use the git add command 
+use the git commit command 
+get the link from the github, copy and paste it into the console, press enter, then use command git push -u origin "branch name"
+create another branch from the main one
+merger the branch you worked in to the main branch 
+use the commands git checkout (brand name) to move between different versions of your project 
+use the git reset command 
+use git commit --ammend to change commit message 
