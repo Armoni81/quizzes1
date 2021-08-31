@@ -12,3 +12,37 @@ merger the branch you worked in to the main branch
 use the commands git checkout (brand name) to move between different versions of your project 
 use the git reset command 
 use git commit --ammend to change commit message 
+
+Python 
+
+1.you would run python and the name of the python file 
+2.use a variable 
+3.print("")
+4.use the if function to make code make decsions 
+5.run while loop function 
+6. Because they will keep going and going 
+7. Sequences are lists, tuples and ranges. Lists are muteable meaning you can change them, they also start with the index of 0. Tuples are immuteable meaning they cannot be changed snd they are characterized with () instead of []like lists. Ranges will generate a range of number you desire, if you input a 10 into a range function it will print out from 0-9. 
+8. to access a value in a list you would use the list name 
+9. index is the value in which it is listed within a list or tuple. They all start from zero 
+10. zero 
+11.to remove a value from a sequence you use either the pop or del function. 
+12. -1 
+13. use the comman len()
+14. def function can be used to refrence a block of code
+15. DONT REPEAT YOURSELF 
+16. Scope is the body or block of code
+17. a parameter is the default value an argument is the value that will be used in place of a parameter if it is pressent 
+18. a defined funciton that can call itself 
+19. To return a value from a function, you must include a return statement, followed by the value to be returned, before the function’s end statement
+20. A dictonary is where you can create a lists of keys and values. it would be useful for sorting out unique Keys with their values. 
+21. You can use wihter the del or the pop method. Similar to what you would use for a list 
+22. To access values in a dictionary you would call the "key" in the dictionary and the value will print 
+23. intergers, boolean, float, 
+24. lists, intergers, float, boolean , nested dictionaries 
+25. Use  for loop to iterate a dictionary
+26. Similar to an assembly line, each step in the program perfroms a specific task. 
+27. A class is sort of liek an outline for a project, it has parameters and arugments whcih can change those parameter values. 
+28. Properties are the attributes or features that characterize classes 
+29. classe methods are characterize by the def function. when using the def function you must use the self parameter with it
+30. inhereintence allows us to define a class from another class. 
+31. float, string , bool, list,tuples .
